@@ -13,7 +13,8 @@
 ;; dependencies
 ;;
 (define deps
-  '("lackadaisical-contract-lib"
+  '("data-lib"
+    "lackadaisical-contract-lib"
     "base"))
 
 (define build-deps

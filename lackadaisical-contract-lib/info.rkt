@@ -12,8 +12,7 @@
 ;; dependencies
 ;;
 (define deps
-  '("data-lib"
-    "transparent-procedure-lib"
+  '("transparent-procedure-lib"
     "base"))
 
 (define build-deps '())
